@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "techhive-labs-db",
-      "database_id": "PLACEHOLDER_FILL_AFTER_D1_CREATE",
+      "database_id": "9f9ae7eb-cfe4-4591-8974-74a16049fb81",
       "migrations_dir": "./migrations"
     }
   ],
