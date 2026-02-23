@@ -15,6 +15,9 @@
       "migrations_dir": "./migrations"
     }
   ],
+  "routes": [
+    { "pattern": "techhive-labs.com", "custom_domain": true }
+  ],
   "triggers": {
     "crons": ["0 */6 * * *"]
   }
